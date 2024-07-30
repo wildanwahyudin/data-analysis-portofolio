@@ -3,6 +3,7 @@
 
 ### Scenario
 We are junior data analysts on the sales team at a coffee vending franchise in Ukraine. Over the past three months, we have observed a decline in transactions. So, our leader has tasked us with identifying the factors contributing to this decline and preparing a report based on our findings.
+
 <br>
 
 ### Dataset Structure
