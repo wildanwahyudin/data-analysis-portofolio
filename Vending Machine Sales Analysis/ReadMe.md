@@ -2,7 +2,7 @@
 
 
 ### Scenario
-We are junior data analysts on the sales team at a coffee vending franchise in Ukraine. Over the past three months, we have observed a decline in transactions. So, our leader has tasked us with identifying the factors contributing to this decline and preparing a report based on our findings.
+We are junior data analysts on the sales team at a coffee vending franchise in Ukraine. Over the past two months, we have observed a decline in transactions. So, our leader has tasked us which products, or customer segments are experiencing the most significant declines.
 
 <br>
 
