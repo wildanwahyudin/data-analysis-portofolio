@@ -1,5 +1,4 @@
-## Vending Machine Customer Analysis 
-### Understanding The Customer to Reduce Turnover
+## Vending Machine Customer Analysis : Understanding The Customer to Reduce Turnover
 
 ### Scenario
 We are junior data analysts on the sales team at a coffee vending franchise in Ukraine. Over the past two months, we have observed a decline in transactions. Our leader believes that this decline may be due to the loss of our loyal customers. Therefore, our team has been tasked with investigating this issue further to gain a deeper understanding of our customers. This will help the marketing team create more effective next promotions to retain customers and reduce turnover within the targeted segment.
