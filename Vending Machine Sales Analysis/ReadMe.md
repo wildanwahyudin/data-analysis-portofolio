@@ -2,8 +2,9 @@
 
 
 ### Scenario
-We are junior data analysts on the sales team at a coffee vending franchise in Ukraine. Over the past two months, we have observed a decline in transactions. So, our leader has tasked us which products, or customer segments are experiencing the most significant declines.
+We are junior data analysts on the sales team at a coffee vending franchise in Ukraine. Over the past two months, we have observed a decline in transactions in a certain area. Our leader believes that this decline is due to the loss of our loyal customers. Therefore, the data analysis team has been tasked with investigating this issue further to better understand our customers. This will enable the marketing team to create more effective promotions to retain customers within the appropriate segment.
 
+so the main objectives of the team is `to retain the turnover customers`. 
 <br>
 
 ### Dataset Structure
