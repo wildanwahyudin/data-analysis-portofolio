@@ -27,6 +27,3 @@ Tools :
 ### Insight Summary 
 
 ### Recommendation 
-
-### Report 
-
